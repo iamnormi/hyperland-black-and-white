@@ -1,0 +1,52 @@
+/*
+
+██╗    ██╗ ██████╗ ███████╗██╗
+██║    ██║██╔═══██╗██╔════╝██║
+██║ █╗ ██║██║   ██║█████╗  ██║
+██║███╗██║██║   ██║██╔══╝  ██║
+╚███╔███╔╝╚██████╔╝██║     ██║
+ ╚══╝╚══╝  ╚═════╝ ╚═╝     ╚═╝
+
+Wofi Config File by Arfan Zubi
+
+*/
+
+window {
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.85);
+    font-family: 'JetBrainsMono NF', sans-serif;
+    font-size: 15px;
+}
+
+#input {
+    margin: 20px 15px;
+    padding: 10px 20px;
+    background-color: #000;
+    border: none;
+    color: #fff;
+}
+
+#input:focus {
+    box-shadow: none;
+}
+
+#inner-box {
+    margin: 0 15px;
+}
+
+#img {
+    margin: 10px;
+}
+
+#entry:selected {
+    background-color: #fff;
+    border-radius: 5px;
+}
+
+#text {
+    color: #fff;
+}
+
+#text:selected {
+    color: #000;
+}
