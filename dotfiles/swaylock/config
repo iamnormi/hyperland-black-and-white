@@ -27,35 +27,35 @@ indicator-radius=240
 indicator-thickness=20
 indicator-caps-lock
 
-key-hl-color=a7c080
+key-hl-color=ffffff
 
-separator-color=a7c080
+separator-color=ffffff
 
-inside-color=272e33
-inside-clear-color=272e33
-inside-caps-lock-color=272e33
-inside-ver-color=272e33
-inside-wrong-color=272e33
+inside-color=000000
+inside-clear-color=000000
+inside-caps-lock-color=000000
+inside-ver-color=000000
+inside-wrong-color=000000
 
-ring-color=3d484d
-ring-clear-color=3d484d
-ring-caps-lock-color=3d484d
-ring-ver-color=3d484d
-ring-wrong-color=3d484d
+ring-color=000000
+ring-clear-color=000000
+ring-caps-lock-color=000000
+ring-ver-color=000000
+ring-wrong-color=000000
 
-line-color=3d484d
-line-clear-color=3d484d
-line-caps-lock-color=3d484d
-line-ver-color=3d484d
-line-wrong-color=3d484d
+line-color=000000
+line-clear-color=000000
+line-caps-lock-color=000000
+line-ver-color=000000
+line-wrong-color=000000
 
-text-color=a7c080
-text-clear-color=dbbc7f
-text-caps-lock-color=e69857
-text-ver-color=d3c6aa
-text-wrong-color=e67e80
+text-color=ffffff
+text-clear-color=ffffff
+text-caps-lock-color=ffffff
+text-ver-color=ffffff
+text-wrong-color=ff0000
 
-bs-hl-color=a7c080
-caps-lock-key-hl-color=a7c080
-caps-lock-bs-hl-color=a7c080
+bs-hl-color=ffffff
+caps-lock-key-hl-color=ffffff
+caps-lock-bs-hl-color=ffffff
 disable-caps-lock-text
